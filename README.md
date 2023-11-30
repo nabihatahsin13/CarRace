@@ -41,5 +41,5 @@ The Console Car Game is a text-based arcade-style game developed in C++. Players
 
 ## Author
 
-- Your Name: Nabiha Tahsin
+- Name: Nabiha Tahsin
 - Student ID: 222-115-236
